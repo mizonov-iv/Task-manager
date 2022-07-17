@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1",
+      "descr": "1",
+      "date": "2022-06-29",
+      "completed": false,
+      "showDescr": false
+    },
+    {
+      "id": 2,
+      "title": "22",
+      "descr": "33",
+      "date": "2022-07-20",
+      "completed": false,
+      "showDescr": false
+    }
+  ]
+}

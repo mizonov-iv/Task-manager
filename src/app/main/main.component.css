@@ -1,0 +1,34 @@
+.orange {
+    background-color: #cb8777;
+}
+
+.pink {
+    background-color: #f8d1f0;
+}
+
+.grey {
+    background-color:white;
+}
+
+.date {
+    text-align: center;
+    max-width: 20%;
+}
+
+.hideDescr {
+    display: none;
+}
+
+.showDescr {
+    display: block;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.validation {
+    margin: 0 auto;
+    color: darkred;
+    font-size: 12px;
+  }
